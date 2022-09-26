@@ -1,0 +1,25 @@
+{
+  "name": "upload-local-owner",
+  "version": "0.0.0",
+  "description": "This is the description of the plugin.",
+  "strapi": {
+    "name": "upload-local-owner",
+    "description": "Description of Upload Local Owner plugin",
+    "kind": "plugin",
+    "displayName": "Upload Local Owner"
+  },
+  "dependencies": {},
+  "author": {
+    "name": "A Strapi developer"
+  },
+  "maintainers": [
+    {
+      "name": "A Strapi developer"
+    }
+  ],
+  "engines": {
+    "node": ">=14.19.1 <=18.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
